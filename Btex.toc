@@ -1,0 +1,18 @@
+## Interface: 30403
+## Title: BTEX 3.4 by |c00bfffff Zetaprime82, originally from Tiggy|r
+## Title-frFR: BTEX 3.4 par |c00bfffff Zetaprime82, à l'origine à partir de Tiggy|r
+## Title: BTEX |c00bfffff WOTLK v.3.4|r
+## Version: 3.4 (WoW 3.4.3)
+## Author: Zetaprime82
+## X-Author: Tiggy, Twistedfury
+## Notes: A lightweight addon that provide a customisable background texture at the bottom of the screen
+## DefaultState: Enabled
+## X-Category: Interface Enhancements
+## X-Website: http://wow.curseforge.com/addons/btex/
+## X-Website: https://addons.wago.io/addons/btex
+## X-Curse-Project-ID: 5222
+## X-Wago-ID: RaN0JMKj
+## SavedVariablesPerCharacter:TEX_CHOICE,TEX_HEIGHT,UI_WIDTH,TEX_ALPHA,TEX_WIDTH,TEX_X,TEX_Y,TEX_STRATA,TEX_VERTEX_R,TEX_VERTEX_G,TEX_VERTEX_B,TEX_VIEWPORT_BL,TEX_VIEWPORT_BR,TEX_VIEWPORT_TL,TEX_VIEWPORT_TR,TEX_CHAT
+
+Localisation.lua
+Btex.lua
